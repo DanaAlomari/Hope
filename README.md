@@ -49,22 +49,9 @@ In our project The user will do all these functionalities :
     Users can be able to give a feedback and testimonial.
 
 
-​ Our great TEAM :
 
-
-    1-Jafar althwahrah
     
-    2-emad Alhashash
-    
-    3-mohammed abd Alaziz
-    
-    4-khalid Alkarmy
-    
-    5-waad Awajneh
-    
-    6-ibrahim Taqieddin
-    
-    7-Dana Alomari
+   Dana Alomari
 
 
 Our LINKS :
